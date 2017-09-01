@@ -9,10 +9,3 @@ Your mission is to print out all of the entries, across all of the sources, in c
 * Consider what would happen when you're asked to merge 1K log sources, or even 1M log sources.  Where might your bottlenecks arise?
 
 There are two parts of the challenge which you'll see when you dive into things.  You can get started with things by running `npm start`.
-
-We expect candidates to spend 1-3 hours on this exercise.  By the way, you may use any third party modules you like, and by all means feel free to ask questions!
-
-
-## Submission
-
-Simply create a GitHub repo and name it something fun (please don't give it the same name as this repo).  Then email us a link!
